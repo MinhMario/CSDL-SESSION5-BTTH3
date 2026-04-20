@@ -1,0 +1,9 @@
+SELECT *
+FROM Students
+ORDER BY Gpa;
+SELECT *
+FROM Students
+ORDER BY Gpa DESC;
+SELECT *
+FROM Students
+ORDER BY Gpa ASC;
